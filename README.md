@@ -1,4 +1,5 @@
 # JSON_Chemical_Formulae_Glossary
+A JSON file that contains the name of the chemical compound in "symbolic notation", the English name of the compound, and then its CAS number. A helpful file for useful information.
 
 Located on <a href = "https://en.wikipedia.org/wiki/Glossary_of_chemical_formulae">this page</a> is a list of "common chemical compounds with chemical formulae and CAS numbers, indexed by formula"[[1]](#1). Performing a cursory search online for the same information available in a JSON format seemed to be hopeless. This information must absolutely be readily available in JSON format.
 
